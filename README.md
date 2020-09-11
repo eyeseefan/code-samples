@@ -5,7 +5,7 @@ This repository contains some samples of codes written by me (Fan Bu). Below is 
 This folder contains the sample code of "Fitness Diary", an iOS app I wrote in Swift with 3D functionalities. The app helps users track their workouts and statistics, and shows a 3D avatar that resembles the user's current physique. Frameworks such as UIKit, SceneKit and Core Data were used. This app is already off App Store, as I did not continue to subscribe to Apple's Developer Program. Some snapshots of the app is included in the folder. For more information, check out the comments at the top of the source code file.
 
 ## Coursework Sample Code (C, Standard ML, Python, System Verilog)
-The following files/folders are samples of codes that I wrote for course homework, project, etc. at Carnegie Mellon University.
+The following files/folders are samples of codes that I wrote for course homework, projects, etc. at Carnegie Mellon University.
 - **proxy_lab.c** (a concurrent proxy that can process HTTP requests and cache recent requested web objects)
 - **parallel_BFS.sml** (both sequential and parallel implementation of Breadth-First Search using a functional programming language)
 - **RSA_decryption.py** (a demonstration of decryption under the RSA scheme in Python)
